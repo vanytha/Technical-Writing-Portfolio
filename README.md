@@ -15,6 +15,6 @@ _Business Analyst and Technical Writer with over 15 years of experience supporti
 API Document 
 -
 ### API Documentation
-- [Authentication API](api-documentation/authentication-api.md)
+- [Authentication API](api-documentation/Access%20and%20Authentication/authentication-api.md)
 - [Publisher Management API](api-documentation/publisher-management-api.md)
 
