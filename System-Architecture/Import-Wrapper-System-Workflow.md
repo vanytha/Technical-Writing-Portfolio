@@ -13,9 +13,8 @@ The staging server is used to materialize the data and perform **standard and bu
 - The diagram below illustrates the **overall workflow of the import process**.
 
 <p align="center">
-<img src="INSERT_DIAGRAM_LINK_HERE" width="900">
+<img width="940" height="594" alt="image" src="https://github.com/user-attachments/assets/65e83897-0742-4f58-9c86-244057878c3d" />
 </p>
-
 ---
 
 ## Import Workflow Steps
