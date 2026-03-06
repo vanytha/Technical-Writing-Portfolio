@@ -16,6 +16,7 @@ _Business Analyst and Technical Writer with over 15 years of experience supporti
    - [Authentication API](api-documentation/Access-and-Authentication.md)
    - [Publisher Management API](api-documentation/Publisher-Management.md)
    - [Payment Authorization Workflow in SaaS Platform](api-documentation/Workflow-Case-Study.md)
-- ### System Architecture
+- ### System Documentation
     - [Import Wrapper System Workflow](System-Architecture/Data-Science-Project.md)
     - [Data Science Project](System-Architecture/Data-Science-Project.md)
+- ### Case Studies
