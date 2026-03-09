@@ -157,7 +157,7 @@ Defining the **Spend Plan** is the key to unlocking many of the **Spend App** fe
 The **Spend Plan** allows you to enter your actual spend data based on the frequency you have chosen (**Monthly or Quarterly**). The entire **Spend Analytics Dashboard** is based on these numbers. Take utmost care to specify accurate numbers so that they are correctly reflected in the **Spend Analytics Dashboard**.
 
 We have modeled the entry of spend data exactly like **Excel**, and we support features such as **copy and paste** and **drag-to-fill data**.
-<img width="979" height="401" alt="image" src="https://github.com/user-attachments/assets/73f39852-6e28-4aa8-8ca8-56ee8d7b93ae" />
+<img width="979" height="401" alt="image" src="https://github.com/user-attachments/assets/34029c51-4ed7-4cba-8604-80abfe0dafd0" />
 
 The expense amounts are separated into **CAPEX** and **OPEX** and are divided across months/quarters based on the **Financial Data Frequency** (**Monthly / Quarterly**) specified in the account setup.
 
