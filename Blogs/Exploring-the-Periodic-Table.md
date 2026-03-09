@@ -1,4 +1,3 @@
-# ELearning with Augmented and Virtual Reality
 ![Banner](https://github.com/user-attachments/assets/534a7ba7-8bb5-47ad-9f38-abdbdf112d3e)
 
 **Original Article:**  
