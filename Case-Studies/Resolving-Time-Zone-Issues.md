@@ -27,6 +27,7 @@ Within the **Moments that Matter** tab in the Edit Profile section, the followin
 - Adding a personal moment with date in the Moments that Matter section
 
 <img width="840" height="331" alt="image" src="https://github.com/user-attachments/assets/8a0cfb39-d3d2-492d-8289-c70f3074869f" />
+
 These fields store important personal milestones and must retain the exact date entered by the user.
 
 ---
@@ -109,6 +110,7 @@ These values must also remain consistent when exported to:
 ### b. Selection History
 The **anniversary date** should be displayed correctly in selection history records.
 <img width="866" height="367" alt="image" src="https://github.com/user-attachments/assets/aa036177-4c2d-4769-a6ff-32ae29ec0bad" />
+<img width="862" height="169" alt="image" src="https://github.com/user-attachments/assets/16b2ba51-0caa-4cb5-a5fc-cd0454ddfa27" />
 
 
 ### c. Expired Awards
