@@ -1,4 +1,4 @@
-# Case Study: Resolving Time Zone Issues Affecting Date Accuracy in CXS Platform
+# Case Study: Resolving Time Zone Issues in CXS Platform
 
 ## Background
 A time zone–related issue was identified in the CXS platform where certain date fields appeared **one day earlier for client administrators** compared to what was stored in the system. This discrepancy affected several features across the platform, particularly areas that display **hire dates, birthdays, and service anniversaries**.
