@@ -1,4 +1,5 @@
 ## Equation Editing — Powered by LaTeX, Simplified with WYSIWYG
+
 <img width="1800" height="605" alt="image" src="https://github.com/user-attachments/assets/b35a0e72-b0e8-4c73-84f7-26d84ef5c617" />
 
 As a author connected to STEM education research, you must be all too familiar with the effort involved in authoring complex mathematical equations in large documents. If you are looking at new ways to speed up the process, XEditPro is for you. XEditPro lets you add mathematical equations, scientific formulas and expressions to documents with some quick wins in effort reduction and user experience.
@@ -25,3 +26,5 @@ The built-in equation editor comes with many more features that help boost your 
 - Export equation as images
 
 XEditPro has a rich set of unique features and many templates to make the equation-entering part super easy and requiring minimal effort on your end. Contact xeditpro@support.com for information on how XEditPro can help you with your authoring needs.
+
+Source: [Equation Editing in XEditPro](https://xeditpro.com/equation-editing-in-xeditpro/)
