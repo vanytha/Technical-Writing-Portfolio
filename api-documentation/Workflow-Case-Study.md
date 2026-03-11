@@ -2,10 +2,7 @@
 
 This document explains the end-to-end flow of a **payment authorization** in a typical SaaS application — from the moment a user submits card details to the point where the system logs the result.
 
----
-<p align="center">
- <img width="983" height="642" alt="payment process" src="https://github.com/user-attachments/assets/365c5d2f-c1ae-4997-a719-35bf0e6e5665" />
-</p>
+<img width="1524" height="1005" alt="image" src="https://github.com/user-attachments/assets/19cfce9a-5ac7-49bd-8ff4-f81ffcbc8a31" />
 
 ### Payment Authorization Flow
 
