@@ -9,4 +9,5 @@ Once the CRA is approved by the client, the request moves into the development l
 
 After successful testing, the feature is deployed to production. The workflow concludes with documentation completion, invoicing, and formal closure of the request.
 *Each role in the process workflow diagram is depicted using a separate color.*
+
 <img width="1247" height="972" alt="image" src="https://github.com/user-attachments/assets/794a786f-4756-449d-91f9-b283007b524f" />
