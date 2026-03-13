@@ -17,7 +17,7 @@ _Business Analyst and Technical Writer with over 15 years of experience supporti
    - [Publisher Management API](api-documentation/Publisher-Management.md)
    - [Payment Authorization Workflow in SaaS Platform](api-documentation/Workflow-Case-Study.md)
 - ### System Documentation
-    - [Import Wrapper System Workflow](System-Architecture/Data-Science-Project.md)
+    - [Import Wrapper System Workflow](System-Architecture/Import-Wrapper-System-Workflow.md)
     - [Data Science Project](System-Architecture/Data-Science-Project.md)
 - ### Case Studies
      - [Resolving Time Zone Issues in CXS Platform](Case-Studies/Resolving-Time-Zone-Issues.md)
