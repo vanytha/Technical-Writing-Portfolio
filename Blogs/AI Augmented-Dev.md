@@ -1,3 +1,4 @@
+
 AI tools such as GitHub Copilot, Tabnine, and Microsoft IntelliCode assist developers by providing real-time code suggestions and AI-driven recommendations. They reduce the time and effort required for repetitive coding tasks. Even debugging code becomes easier with AI-powered assistance from tools like ChatGPT. These are just a few examples within the growing ecosystem of AI-powered software development tools. While they make a developer’s life easier, they have also sparked an important debate: are developers being replaced, or are they simply becoming more powerful with AI assistance?
 
 Based on research on current AI tools and their applications in software development, the table below summarizes key areas where AI is used, along with examples of AI tools and the role of developers.
@@ -15,7 +16,6 @@ Based on research on current AI tools and their applications in software develop
 | Architecture design | Automate aspects of solution design using scalable frameworks to improve speed and consistency. | • Amazon CodeWhisperer<br>• Azure AI Copilot | Define system requirements and make architectural decisions |
 | Workflow Automation | Design systems where multiple AI agents collaborate to automate complex tasks and workflows. | • LangChain<br>• CrewAI<br>• Microsoft AutoGen | Design agent roles, define workflows, and supervise system execution |
 | AI Application Development | Build applications that use generative AI models to generate content, answer questions, or analyze data. | • OpenAI API, LangChain<br>• Hugging Face | Design AI-powered features, integrate LLM APIs, and ensure the outputs are accurate and reliable |
-
 
 From the above table, we can infer that AI-augmented software development supports developers rather than replacing them. By integrating artificial intelligence into the developer toolkit, developers benefit from auto-generated suggestions, high-quality code recommendations, the ability to identify coding errors, optimize code, detect potential security vulnerabilities, and receive learning support.
 
