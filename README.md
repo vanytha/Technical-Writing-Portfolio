@@ -24,7 +24,7 @@ _Business Analyst and Technical Writer with over 15 years of experience supporti
      - [Reducing Textbook Production Time by 45 Days Using XEditPro Publishing Suite](Case-Studies/xeditpro-publishing-suite.md)
 - ### Blogs
     - [How to Automate Data Transfer from Any SaaS Tool to Your CRM](Blogs/Automate-Data-Transfer-from-SaaS-Tool-to-CRM.md)
-    - [AI Augmented Software Development](Blogs/Automate-Data-Transfer-from-SaaS-Tool-to-CRM.md)
+    - [AI Augmented Software Development](Blogs/AI-Augmented-Dev.md)
     - [Exploring the Periodic Table with Augmented Reality](Blogs/Exploring-the-Periodic-Table.md)
     - [Equation Editing — Powered by LaTeX, Simplified with WYSIWYG](Blogs/XEditPro-Equation-Editing.md)
     - [How Virtual Reality is Transforming Car Retail](Blogs/Virtual-Reality-App.md)
