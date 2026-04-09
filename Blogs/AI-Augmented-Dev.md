@@ -1,4 +1,6 @@
 # AI-Augmented Software Development
+ <img width="753" height="495" alt="image" src="https://github.com/user-attachments/assets/7a49b72a-01d9-4a81-9ea7-a5e4987212fd" />
+
 AI tools such as GitHub Copilot, Tabnine, and Microsoft IntelliCode assist developers by providing real-time code suggestions and AI-driven recommendations. They reduce the time and effort required for repetitive coding tasks. Even debugging code becomes easier with AI-powered assistance from tools like ChatGPT. These are just a few examples within the growing ecosystem of AI-powered software development tools. While they make a developer’s life easier, they have also sparked an important debate: are developers being replaced, or are they simply becoming more powerful with AI assistance?
 
 Based on research on current AI tools and their applications in software development, the table below summarizes key areas where AI is used, along with examples of AI tools and the role of developers.
