@@ -31,15 +31,14 @@ Among the available SQL Server replication types — **Snapshot Replication**, *
 ## Replication Publishing Model Terminology
 
 The components in a replication topology include **Publisher, Distributor, Publications, Articles, Subscriptions, Subscribers,** and **Replication Agents**.
-
-| Component | Description |
-|-----------|-------------|
-| **Publisher** | A database that provides the data for replication (e.g., `Boutiques_core`). |
-| **Publication** | A set of objects and data to replicate. A publisher (database) can have one or more publications. |
-| **Article** | The database objects that are to be replicated, such as tables. |
-| **Distributor** | A database that stores the replication metadata and data from one or more publishers before it is delivered to subscribers. |
-| **Subscriber** | A database that subscribes to publications from the publisher in order to receive replicated data. Example: `[SQL08PRODCA-01\CA08][Boutique]` and `[SQL08PRODCA-01\US08][Boutique]`. |
-| **Subscription** | The link between a publisher and a subscriber. The subscriber connects to the publisher by creating a subscription for a specific publication. |
+| Component           | Description |
+|--------------------|-------------|
+| **Publisher**      | A database that provides the data for replication (e.g., `Boutiques_core`). |
+| **Publication**    | A set of objects and data to replicate. A publisher (database) can have one or more publications. |
+| **Article**        | The database objects that are to be replicated, such as tables. |
+| **Distributor**    | A database that stores the replication metadata and data from one or more publishers before it is delivered to subscribers. |
+| **Subscriber**     | A database that subscribes to publications from the publisher in order to receive replicated data. Example: `[SQL08PRODCA-01\CA08][Boutique]` and `[SQL08PRODCA-01\US08][Boutique]`. |
+| **Subscription**   | The link between a publisher and a subscriber. The subscriber connects to the publisher by creating a subscription for a specific publication. |
 | **Replication Agent** | Standalone executables responsible for moving data from the publisher to the subscriber. Examples include **Snapshot Agent**, **Log Reader Agent**, and **Distribution Agent**. |
 
 ## Data Protection Practices in General
