@@ -109,13 +109,7 @@ This is a critical component in spend setup, as it has a direct impact on spend 
    #### a) Contract with **Term Contract Spend**
 
    A contract with the **Term Contract Spend** option will have committed and estimated **CAPEX** and **OPEX** values.
-| Term                              | Description                                                                 |
-|----------------------------------|-----------------------------------------------------------------------------|
-| Term Committed CAPEX Spend       | Capital expense committed as per the contract’s terms.                      |
-| Term Committed OPEX Spend        | Operating expense committed as per the contract’s terms.                    |
-| Estimated Overage CAPEX Spend    | Estimated capital expense above the amount committed in the contract’s terms. |
-| Estimated Overage OPEX Spend     | Estimated operating expense above the amount committed in the contract’s terms. |
-
+        
    - **Term Committed CAPEX Spend** – Capital expense committed as per the contract’s terms.
 
    - **Term Committed OPEX Spend** – Operating expense committed as per the contract’s terms.
