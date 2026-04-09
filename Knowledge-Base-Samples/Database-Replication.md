@@ -29,7 +29,15 @@ Among the available SQL Server replication types — **Snapshot Replication**, *
 - Rows inserted into this table are manually checked to confirm that the changes are reflected in the corresponding database tables on the other two servers.
   
 ## Replication Publishing Model Terminology
-
+| Component | Description |
+|-----------|-------------|
+| Publisher | A database that provides the data for replication (e.g., Boutiques_core). |
+| Publication | A set of objects and data to replicate. |
+| Article | Database objects like tables. |
+| Distributor | Stores replication metadata and data. |
+| Subscriber | Receives replicated data. |
+| Subscription | Link between publisher and subscriber. |
+| Replication Agent | Moves data (Snapshot, Log Reader, Distribution Agent). |
 
 
 ## Data Protection Practices in General
