@@ -109,22 +109,20 @@ This is a critical component in spend setup, as it has a direct impact on spend 
    #### a) Contract with **Term Contract Spend**
 
    A contract with the **Term Contract Spend** option will have committed and estimated **CAPEX** and **OPEX** values.
+   | Spend Type | Description |
+   |------------|-------------|
+   | **Term Committed CAPEX Spend** | Capital expenditure committed under the contract terms. |
+   | **Term Committed OPEX Spend** | Operating expenditure committed under the contract terms. |
+   | **Estimated Overage CAPEX Spend** | Estimated capital expenditure exceeding the committed contract amount. |
+   | **Estimated Overage OPEX Spend** | Estimated operating expenditure exceeding the committed contract amount. |
         
-   - **Term Committed CAPEX Spend** – Capital expense committed as per the contract’s terms.
-
-   - **Term Committed OPEX Spend** – Operating expense committed as per the contract’s terms.
-
-   - **Estimated Overage CAPEX Spend** – Estimated capital expense above the amount committed in the contract’s terms.
-
-   - **Estimated Overage OPEX Spend** – Estimated operating expense above the amount committed in the contract’s terms.
-
   #### b) Contract with **Spend per Item**
 
   A contract with **Spend per Item** can have one of the following license types for items:
-
-  - **One-Time (Perpetual)** – This type of itemization allows users to define total spend and a depreciation schedule, if any, for the contract item.
-
-  - **Subscription** – Subscription-based licensing allows users to define various combinations of license types and **capacity & spend options**.
+  | License Type | Description |
+  |--------------|-------------|
+  | **One-Time (Perpetual)** | Allows users to define total spend along with an optional depreciation schedule for the contract item. |
+  | **Subscription** | Enables subscription-based licensing with flexible combinations of license types and capacity & spend options. |
 
 Click **Save** after uploading the essential financial documents.
 
