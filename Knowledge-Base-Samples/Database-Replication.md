@@ -27,8 +27,8 @@ Among the available SQL Server replication types — **Snapshot Replication**, *
 - This table is used to verify that the replication process is working and that the databases are synchronized between the US and Canadian servers.
 
 - Rows inserted into this table are manually checked to confirm that the changes are reflected in the corresponding database tables on the other two servers.
-- 
-  ## Replication Publishing Model Terminology
+  
+## Replication Publishing Model Terminology
 
 The components in a replication topology include **Publisher, Distributor, Publications, Articles, Subscriptions, Subscribers,** and **Replication Agents**.
 
