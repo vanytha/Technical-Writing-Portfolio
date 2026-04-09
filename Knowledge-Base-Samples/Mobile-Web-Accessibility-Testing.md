@@ -2,7 +2,7 @@
 ## Introduction
 
 ### Purpose
-Accessibility testing on mobile devices is crucial for creating inclusive apps that everyone can use. By understanding guidelines, using built-in features, performing manual and automated testing, and involving real users, this document aims to ensure the CXS website mobile app is accessible to all.
+Accessibility testing on mobile devices is crucial for creating inclusive apps that everyone can use. By understanding guidelines, using built-in features, performing manual and automated testing, and involving real users, this document aims to ensure the CXS (Career Experience Suite) website mobile app is accessible to all.
 
 ### Scope
 The scope covers all user interface components, content, and functionalities of the CXS website.
