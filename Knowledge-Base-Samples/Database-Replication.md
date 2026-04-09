@@ -29,7 +29,7 @@ Among the available SQL Server replication types — **Snapshot Replication**, *
 - Rows inserted into this table are manually checked to confirm that the changes are reflected in the corresponding database tables on the other two servers.
   
 ## Replication Publishing Model Terminology
-<img width="910" height="382" alt="image" src="https://github.com/user-attachments/assets/a29525b0-dc59-445b-906c-f0d4fe97017f" />
+<img width="810" height="282" alt="image" src="https://github.com/user-attachments/assets/a29525b0-dc59-445b-906c-f0d4fe97017f" />
 
 ## Data Protection Practices in General
 
