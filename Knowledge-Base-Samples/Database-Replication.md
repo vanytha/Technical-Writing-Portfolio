@@ -41,6 +41,7 @@ The components in a replication topology include **Publisher, Distributor, Publi
 | **Subscriber** | A database that subscribes to publications from the publisher in order to receive replicated data. Example: `[SQL08PRODCA-01\CA08][Boutique]` and `[SQL08PRODCA-01\US08][Boutique]`. |
 | **Subscription** | The link between a publisher and a subscriber. The subscriber connects to the publisher by creating a subscription for a specific publication. |
 | **Replication Agent** | Standalone executables responsible for moving data from the publisher to the subscriber. Examples include **Snapshot Agent**, **Log Reader Agent**, and **Distribution Agent**. |
+
 ## Data Protection Practices in General
 
 The publication database is a subset of the target subscriber databases in the Rideau system.
