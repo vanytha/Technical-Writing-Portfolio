@@ -74,4 +74,5 @@ This is explained below with an example:
 - In the `Rideau_Master` database, the table `dbo.ColorTypeStrings` contains a foreign key that references the `ColorType_Id` column in the `dbo.ColorType` table.
 
 - Because of this foreign key dependency, deleting the record from `dbo.ColorType` causes a foreign key violation, which results in the replication process failing.
+  
 <img width="589" height="358" alt="image" src="https://github.com/user-attachments/assets/6a0e8f34-349f-434f-b744-0c575a0acd6d" />
