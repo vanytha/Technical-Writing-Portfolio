@@ -1,7 +1,7 @@
 # Case Study: Resolving Time Zone Issues in CXS Platform
 
 ## Background
-A time zone–related issue was identified in the CXS platform where certain date fields appeared **one day earlier for client administrators** compared to what was stored in the system. This discrepancy affected several features across the platform, particularly areas that display **hire dates, birthdays, and service anniversaries**.
+A time zone–related issue was identified in the CXS (Career Experience Suite) platform where certain date fields appeared **one day earlier for client administrators** compared to what was stored in the system. This discrepancy affected several features across the platform, particularly areas that display **hire dates, birthdays, and service anniversaries**.
 
 Since these dates drive **recognition events, reports, and service milestones**, ensuring their accuracy was critical. The issue required careful investigation and regression testing across multiple modules.
 
